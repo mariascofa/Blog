@@ -1,5 +1,3 @@
-# Blog
-
 <h1> Blog with 4 pages </h1>
 
 <ul>
@@ -9,11 +7,4 @@
 <li> Page for deleting a post, the page accepts the id of the post that we want to delete </li>
 </ul>
 
-
-
-After successful completion of 2, 3, 4 pages, redirect (redirect) to the page with all posts
-Be sure to write doc-string in every function
-Add .gitignore to project
-Add a database to a project
-At the beginning of the program file, insert a comment\doc-string with the command that you created the table
-Template styling is welcome, but not required
+After successful completion of adding/ editing/ deleting application redirects to the page with all posts.
